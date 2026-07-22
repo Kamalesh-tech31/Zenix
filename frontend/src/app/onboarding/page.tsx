@@ -60,7 +60,7 @@ const stepLabels = [
 ];
 
 const aiMessages = {
-  step1: "Welcome to Zenix.\n\nI'm your AI academic strategist.\n\nTell me what you're trying to achieve.",
+  step1: "Welcome to Zenix.\n\nI'm your AI academic strategist.\nTell me what you're trying to achieve.",
   step2: "Great choice.\n\nWhat role or outcome are you targeting?",
   step3: "How would you describe your current level?",
   step4: "How much time can you consistently invest each day?",
